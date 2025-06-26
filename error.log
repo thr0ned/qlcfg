@@ -1,0 +1,32 @@
+
+=========== ERR_FATAL REPORT =========
+MODE: 23, 700 x 400 windowed hz:240
+GAMMA: software w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_NEAREST_MIPMAP_LINEAR
+picmip: 6
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 120 milli seconds
+UI menu load time = 100 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 17 LoD cracks
+...loaded 10564 faces, 400 meshes, 78 trisurfs, 0 flares
+UI menu load time = 300 milli seconds
+CL_InitCGame:  3.30 seconds
+19 msec to draw all images
+Com_TouchMemory: 0 msec
+fender bender^7 renamed to ^7ZOLTAN
+^6======= ^7Message of the Day ^6=======^7
+^1NEW: ^3CPMA Fullbright Model Textures ^5| ^6r_vertexLight ''0'' and cg_forceEnemySkin ''fb''
+]\disconnect 
+Disconnected from server

@@ -1,0 +1,890 @@
+Steam API initialized.
+----- FS_Startup -----
+WARNING: Skipping workshop, ISteamUGC is NULL.
+Current search path:
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake
+Live/76561197995260178/baseq3
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake
+Live\baseq3\thinbeam-style6.pk3 (0x1ddc0a1e - 3 files)
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake
+Live\baseq3\thinbeam-style3.pk3 (0x1ddc0a1e - 3 files)
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake
+Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\bin.pk3
+(0x7c1d0d5e - 5 files)
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live/baseq3
+
+----------------------
+9296 files in pk3 files
+execing default.cfg
+Loading dll file qagame
+==== ShutdownGame ====
+Loading dll file cgame
+execing qzconfig.cfg
+sv_warmupReadyPercentage will be changed to 0.50 upon restarting.
+Refusing to set timelimit during initialization due to CVAR_GAMERULE
+Refusing to set roundlimit during initialization due to CVAR_GAMERULE
+Refusing to set g_roundWarmupDelay during initialization due to CVAR_GAMERULE
+sv_maxclients will be changed to 15 upon restarting.
+Refusing to set fraglimit during initialization due to CVAR_GAMERULE
+Refusing to set capturelimit during initialization due to CVAR_GAMERULE
+execing repconfig.cfg
+s_ambient will be changed to 0 upon restarting.
+execing autoexec.cfg
+execing thr0ne/thr0ne.cfg
+execing thr0ne/password.cfg
+execing thr0ne/quotes.cfg
+execing thr0ne/weapon.cfg
+execing thr0ne/hud.cfg
+execing thr0ne/sound.cfg
+execing thr0ne/itemuse.cfg
+execing thr0ne/modkey.cfg
+execing thr0ne/name.cfg
+execing thr0ne/video.cfg
+execing thr0ne/accel.cfg
+Refusing to set timelimit during initialization due to CVAR_GAMERULE
+Refusing to set roundlimit during initialization due to CVAR_GAMERULE
+Refusing to set fraglimit during initialization due to CVAR_GAMERULE
+Refusing to set capturelimit during initialization due to CVAR_GAMERULE
+Refusing to set g_roundWarmupDelay during initialization due to CVAR_GAMERULE
+Unknown command "vid_restart"
+Steam Gameserver initialized.
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake
+Live/76561197995260178/baseq3
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake
+Live\baseq3\thinbeam-style6.pk3 (0x1ddc0a1e - 3 files)
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake
+Live\baseq3\thinbeam-style3.pk3 (0x1ddc0a1e - 3 files)
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake
+Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\bin.pk3
+(0x7c1d0d5e - 5 files)
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live/baseq3
+Z:\home\thr0ne\.local\
+share\Steam\steamapps\workshop\content\282440\3473386493\\thinbeam-style6.pk3
+(0x1ddc0a1e - 3 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473386493/
+Z:\home\thr0ne\.local\
+share\Steam\steamapps\workshop\content\282440\3473361987\\thinbeam-style3.pk3
+(0x1ddc0a1e - 3 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473361987/
+Z:\home\thr0n
+e\.local\share\Steam\steamapps\workshop\content\282440\1608253886\\overek.pk3
+(0xf4e8f596 - 11 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1608253886/
+Z:\home\thr0
+ne\.local\share\Steam\steamapps\workshop\content\282440\597920398\\ts_ca1.pk3
+(0xa9f9cd08 - 22 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\597920398/
+Z:\home\thr
+0ne\.local\share\Steam\steamapps\workshop\content\282440\547252823\\6plus.pk3
+(0x3d3f1bca - 14 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\547252823/
+Z:\home\thr0ne\.lo
+cal\share\Steam\steamapps\workshop\content\282440\1854490400\\ahxkill_pql.pk3
+(0xe81414d8 - 35 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1854490400/
+Z:\home\thr0ne
+\.local\share\Steam\steamapps\workshop\content\282440\2888269948\\nohalls.pk3
+(0x5744c808 - 4 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2888269948/
+Z:\home\thr0ne\
+.local\share\Steam\steamapps\workshop\content\282440\3149546769\\nohalls2.pk3
+(0xc955d907 - 7 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3149546769/
+Z:\home\thr0n
+e\.local\share\Steam\steamapps\workshop\content\282440\549600167\\okremix.pk3
+(0x70df4822 - 7 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\549600167/
+Z:\home\thr0ne\.
+local\share\Steam\steamapps\workshop\content\282440\552722973\\sanctorium.pk3
+(0x40d27928 - 113 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\552722973/
+Z:\home\thr0ne\.local\s
+hare\Steam\steamapps\workshop\content\282440\2390176322\\raztrainql_beta4.pk3
+(0x6672a4e7 - 48 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2390176322/
+Z:\home\thr0ne\.l
+ocal\share\Steam\steamapps\workshop\content\282440\2242127889\\strafeged2.pk3
+(0x61bedd85 - 3 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2242127889/
+Z:\home\thr0n
+e\.local\share\Steam\steamapps\workshop\content\282440\575312620\\ospmaps.pk3
+(0xe8fa40e8 - 761 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\575312620/
+Z:\home\thr0n
+e\.local\share\Steam\steamapps\workshop\content\282440\908670670\\q3trnp1.pk3
+(0xebd59dd0 - 13 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\908670670/
+Z:\home\thr0
+ne\.local\share\Steam\steamapps\workshop\content\282440\655639987\\Oilrig.pk3
+(0x3be39fd5 - 14 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\655639987/
+Z:\home\thr0ne\
+.local\share\Steam\steamapps\workshop\content\282440\2839061218\\dm_abbey.pk3
+(0x0acbd1bc - 18 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2839061218/
+Z:\home\thr0n
+e\.local\share\Steam\steamapps\workshop\content\282440\2812274310\\prison.pk3
+(0xf4cdf936 - 6 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2812274310/
+Z:\home\thr0ne
+\.local\share\Steam\steamapps\workshop\content\282440\2938839334\\sanctum.pk3
+(0xd711598d - 105 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2938839334/
+Z:\home\thr0ne\.loc
+al\share\Steam\steamapps\workshop\content\282440\1971145850\\firstrebirth.pk3
+(0x88a21c6f - 112 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1971145850/
+Z:\home\thr0ne\.loc
+al\share\Steam\steamapps\workshop\content\282440\2154871066\\sinisterblue.pk3
+(0xe4aac3b7 - 64 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2154871066/
+Z:\home\thr0n
+e\.local\share\Steam\steamapps\workshop\content\282440\588956903\\bal3dm2.pk3
+(0x94e93ed2 - 36 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\588956903/
+Z:\home\thr0ne\
+.local\share\Steam\steamapps\workshop\content\282440\2924088154\\vertical.pk3
+(0xcbe1ebdd - 6 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2924088154/
+Z:\home\thr0
+ne\.local\share\Steam\steamapps\workshop\content\282440\2869523316\\silip.pk3
+(0xf35110c7 - 66 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2869523316/
+Z:\home\thr0n
+e\.local\share\Steam\steamapps\workshop\content\282440\607054267\\pqarena.pk3
+(0xcf494861 - 26 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\607054267/
+Z:\home\thr0
+ne\.local\share\Steam\steamapps\workshop\content\282440\637351306\\ct3dm4.pk3
+(0x03601c17 - 124 files)
+Z
+:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\637351306/
+Z:\home\thr0
+ne\.local\share\Steam\steamapps\workshop\content\282440\2167846290\\mario.pk3
+(0x581080d4 - 23 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2167846290/
+Z:\home\thr0ne\.loc
+al\share\Steam\steamapps\workshop\content\282440\3250428693\\13soylent_a3.pk3
+(0xa872221a - 9 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3250428693/
+Z:\home\thr0
+ne\.local\share\Steam\steamapps\workshop\content\282440\1928235486\\dm102.pk3
+(0x3cdb324a - 135 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1928235486/
+Z:\home\thr0ne\.local
+\share\Steam\steamapps\workshop\content\282440\3303557328\\overkill_fixed.pk3
+(0x9f7d82e8 - 14 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3303557328/
+Z:\home\thr0ne\.l
+ocal\share\Steam\steamapps\workshop\content\282440\2955830332\\fullbright.pk3
+(0x22eb17f8 - 111 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2955830332/
+Z:\home\thr0ne\.loc
+al\share\Steam\steamapps\workshop\content\282440\3008846662\\zzz-beamcpma.pk3
+(0x1ddc0a1e - 3 files)
+Z:
+\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3008846662/
+
+----------------------
+11212 files in pk3 files
+Hunk_Clear: reset the hunk ok
+...detecting CPU, found Intel Pentium III
+
+------- Input Initialization -------
+joystick not found -- no valid joysticks (a5)
+------------------------------------
+204 arenas parsed
+loaded factories from scripts/factories.txt, total 22
+rotation file not found: ca.txt
+----- Client Initialization -----
+[0:00.000] ----- Initializing Renderer ----
+[0:00.000] -------------------------------
+[0:00.000] ----- Client Initialization Complete -----
+[0:00.000] ----- R_Init -----
+[0:00.000] Initializing OpenGL subsystem
+[0:00.000] ...initializing QGL
+[0:00.000] ...calling LoadLibrary( 'C:\windows\system32\opengl32.dll' ):
+succeeded
+[0:00.000] ...setting mode -1: 700 400 W
+[0:00.000] ...registered window class
+[0:00.000] ...created window@0,0 (708x434)
+[0:00.000] Initializing OpenGL driver
+[0:00.000] ...getting DC: succeeded
+[0:00.000] ...GLW_AutoSelectPFD( 32, 24, 0 )
+[0:00.000] ... auto selected PFD 3...PIXELFORMAT 3 selected
+[0:00.000] ...creating GL context: succeeded
+[0:00.000] ...making context current: succeeded
+[0:00.000] Initializing OpenGL extensions
+[0:00.000] ...ignoring GL_S3_s3tc
+[0:00.000] ...using GL_EXT_texture_env_add
+[0:00.000] ...using WGL_EXT_swap_control
+[0:00.000] ...using GL_ARB_multitexture
+[0:00.000] ...using GL_EXT_compiled_vertex_array
+[0:00.000] ...WGL_3DFX_gamma_control not found
+[0:00.000]
+GL_VENDOR: NVIDIA Corporation
+[0:00.000] GL_RENDERER: NVIDIA GeForce RTX 3070/PCIe/SSE2
+[0:00.000] GL_VERSION: 4.6.0 NVIDIA 575.64
+[0:00.000] GL_EXTENSIONS: GL_AMD_multi_draw_indirect
+GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index
+GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance
+GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage
+GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control
+GL_ARB_color_buffer_float GL_ARB_compatibility
+GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth
+GL_ARB_compute_shader GL_ARB_compute_variable_group_size
+GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image
+GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float
+GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control
+GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend
+GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced
+GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility
+GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility
+GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location
+GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader
+GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments
+GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4
+GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv
+GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64
+GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging
+GL_ARB_indirect_parameters GL_ARB_instanced_arrays
+GL_ARB_internalformat_query GL_ARB_internalformat_query2
+GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range
+GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample
+GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2
+GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query
+GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite
+GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage
+GL_ARB_program_interface_query GL_ARB_provoking_vertex
+GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior
+GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading
+GL_ARB_sampler_objects GL_ARB_seamless_cube_map
+GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects
+GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters
+GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock
+GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote
+GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects
+GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object
+GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples
+GL_ARB_shader_texture_lod GL_ARB_shading_language_100
+GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack
+GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow
+GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2
+GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing
+GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier
+GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object
+GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range
+GL_ARB_texture_compression GL_ARB_texture_compression_bptc
+GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map
+GL_ARB_texture_cube_map_array GL_ARB_texture_env_add
+GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar
+GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic
+GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather
+GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat
+GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two
+GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle
+GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8
+GL_ARB_texture_storage GL_ARB_texture_storage_multisample
+GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query
+GL_ARB_transform_feedback2 GL_ARB_transform_feedback3
+GL_ARB_transform_feedback_instanced GL_ARB_transform_GL_MAX_TEXTURE_SIZE:
+32768
+[0:00.000] GL_MAX_ACTIVE_TEXTURES_ARB: 4
+[0:00.000]
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(8-bits)
+[0:00.000] MODE: 23, 700 x 400 windowed hz:240
+[0:00.000] GAMMA: software w/ 0 overbright bits
+[0:00.000] CPU: Intel Pentium III
+[0:00.000] rendering primitives: single glDrawElements
+[0:00.000] texturemode: GL_NEAREST_MIPMAP_LINEAR
+[0:00.000] picmip: 6
+[0:00.000] texture bits: 32
+[0:00.000] multitexture: enabled
+[0:00.000] compiled vertex arrays: enabled
+[0:00.000] texenv add: enabled
+[0:00.000] compressed textures: disabled
+[0:00.000] Initializing Shaders
+[0:00.000] ----- finished R_Init -----
+[0:00.000]
+------- sound initialization -------
+[0:00.000] Initializing DirectSound
+[0:00.000] ------------------------------------
+[0:00.000] ----- Sound Info -----
+[0:00.000] sound system is muted
+[0:00.000]     1 stereo
+[0:00.000] 32768 samples
+[0:00.000]    16 samplebits
+[0:00.000]     1 submission_chunk
+[0:00.000] 22050 speed
+[0:00.000] 0x1c64c04 dma buffer
+[0:00.000] No background file.
+[0:00.000] ----------------------
+[0:00.000] Sound memory manager started
+[0:00.000] switched back to window mode
+[0:00.000] switched back to window mode
+[0:00.000] Loading dll file ui
+[0:00.000] UI menu load time = 117 milli seconds
+[0:00.000] UI menu load time = 94 milli seconds
+[0:00.000] 34 bots parsed
+[0:00.000] --- Common Initialization Complete ---
+[0:00.000] Winsock Initialized
+[0:00.000] Opening IP socket: localhost:27960
+[0:00.000] Hostname: crib
+[0:00.000] IP: 192.168.0.197
+[0:00.000] IP: 172.18.0.1
+[0:00.000] IP: 172.19.0.1
+[0:00.000] IP: 172.20.0.1
+[0:00.000] IP: 182.18.0.1
+[0:00.000] IP: 192.168.122.1
+[0:00.000] IP: 172.17.0.1
+[0:00.000] Working directory:
+Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live
+[0:00.000] Proceeding with delayed mouse init
+[0:00.000] Connected to Steam servers
+[0:00.000] zmq stats and rcon passwords updated
+[0:00.000] ]/go
+[0:00.000] aim.pm:777 resolved to 95.179.144.177:777
+[0:00.000] Not recording a demo.
+[0:00.000] ----- FS_Startup -----
+[0:00.000] Current search path:
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live/76561197995260178/baseq3
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\thinbeam-style6.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\thinbeam-style3.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live/baseq3
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473386493\\thinbeam-style6.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473386493/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473361987\\thinbeam-style3.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473361987/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1608253886\\overek.pk3 (0xf4e8f596 - 11 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1608253886/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\597920398\\ts_ca1.pk3 (0xa9f9cd08 - 22 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\597920398/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\547252823\\6plus.pk3 (0x3d3f1bca - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\547252823/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1854490400\\ahxkill_pql.pk3 (0xe81414d8 - 35 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1854490400/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2888269948\\nohalls.pk3 (0x5744c808 - 4 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2888269948/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3149546769\\nohalls2.pk3 (0xc955d907 - 7 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3149546769/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\549600167\\okremix.pk3 (0x70df4822 - 7 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\549600167/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\552722973\\sanctorium.pk3 (0x40d27928 - 113 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\552722973/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2390176322\\raztrainql_beta4.pk3 (0x6672a4e7 - 48 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2390176322/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2242127889\\strafeged2.pk3 (0x61bedd85 - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2242127889/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\575312620\\ospmaps.pk3 (0xe8fa40e8 - 761 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\575312620/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\908670670\\q3trnp1.pk3 (0xebd59dd0 - 13 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\908670670/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\655639987\\Oilrig.pk3 (0x3be39fd5 - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\655639987/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2839061218\\dm_abbey.pk3 (0x0acbd1bc - 18 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2839061218/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2812274310\\prison.pk3 (0xf4cdf936 - 6 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2812274310/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2938839334\\sanctum.pk3 (0xd711598d - 105 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2938839334/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1971145850\\firstrebirth.pk3 (0x88a21c6f - 112 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1971145850/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2154871066\\sinisterblue.pk3 (0xe4aac3b7 - 64 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2154871066/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\588956903\\bal3dm2.pk3 (0x94e93ed2 - 36 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\588956903/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2924088154\\vertical.pk3 (0xcbe1ebdd - 6 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2924088154/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2869523316\\silip.pk3 (0xf35110c7 - 66 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2869523316/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\607054267\\pqarena.pk3 (0xcf494861 - 26 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\607054267/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\637351306\\ct3dm4.pk3 (0x03601c17 - 124 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\637351306/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2167846290\\mario.pk3 (0x581080d4 - 23 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2167846290/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3250428693\\13soylent_a3.pk3 (0xa872221a - 9 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3250428693/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1928235486\\dm102.pk3 (0x3cdb324a - 135 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1928235486/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3303557328\\overkill_fixed.pk3 (0x9f7d82e8 - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3303557328/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2955830332\\fullbright.pk3 (0x22eb17f8 - 111 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2955830332/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3008846662\\zzz-beamcpma.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3008846662/
+[0:00.000]
+[0:00.000] ----------------------
+[0:00.000] 11212 files in pk3 files
+[0:00.000] Server requires the following workshop items: 547252823 1912121823 1950052814
+[0:00.000] Workshop item 547252823: in cache.
+[0:00.000] Workshop item 1912121823: requesting download.
+[0:00.000] Workshop item 1950052814: queueing download.
+[0:00.000] Not recording a demo.
+[0:00.000] ----- FS_Startup -----
+[0:00.000] Current search path:
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live/76561197995260178/baseq3
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\thinbeam-style6.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\thinbeam-style3.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live/baseq3
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473386493\\thinbeam-style6.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473386493/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473361987\\thinbeam-style3.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473361987/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1608253886\\overek.pk3 (0xf4e8f596 - 11 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1608253886/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\597920398\\ts_ca1.pk3 (0xa9f9cd08 - 22 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\597920398/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\547252823\\6plus.pk3 (0x3d3f1bca - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\547252823/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1854490400\\ahxkill_pql.pk3 (0xe81414d8 - 35 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1854490400/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2888269948\\nohalls.pk3 (0x5744c808 - 4 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2888269948/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3149546769\\nohalls2.pk3 (0xc955d907 - 7 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3149546769/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\549600167\\okremix.pk3 (0x70df4822 - 7 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\549600167/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\552722973\\sanctorium.pk3 (0x40d27928 - 113 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\552722973/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2390176322\\raztrainql_beta4.pk3 (0x6672a4e7 - 48 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2390176322/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2242127889\\strafeged2.pk3 (0x61bedd85 - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2242127889/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\575312620\\ospmaps.pk3 (0xe8fa40e8 - 761 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\575312620/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\908670670\\q3trnp1.pk3 (0xebd59dd0 - 13 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\908670670/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\655639987\\Oilrig.pk3 (0x3be39fd5 - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\655639987/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2839061218\\dm_abbey.pk3 (0x0acbd1bc - 18 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2839061218/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2812274310\\prison.pk3 (0xf4cdf936 - 6 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2812274310/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2938839334\\sanctum.pk3 (0xd711598d - 105 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2938839334/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1971145850\\firstrebirth.pk3 (0x88a21c6f - 112 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1971145850/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2154871066\\sinisterblue.pk3 (0xe4aac3b7 - 64 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2154871066/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\588956903\\bal3dm2.pk3 (0x94e93ed2 - 36 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\588956903/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2924088154\\vertical.pk3 (0xcbe1ebdd - 6 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2924088154/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2869523316\\silip.pk3 (0xf35110c7 - 66 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2869523316/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\607054267\\pqarena.pk3 (0xcf494861 - 26 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\607054267/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\637351306\\ct3dm4.pk3 (0x03601c17 - 124 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\637351306/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2167846290\\mario.pk3 (0x581080d4 - 23 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2167846290/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3250428693\\13soylent_a3.pk3 (0xa872221a - 9 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3250428693/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1928235486\\dm102.pk3 (0x3cdb324a - 135 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1928235486/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3303557328\\overkill_fixed.pk3 (0x9f7d82e8 - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3303557328/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2955830332\\fullbright.pk3 (0x22eb17f8 - 111 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2955830332/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3008846662\\zzz-beamcpma.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3008846662/
+[0:00.000]
+[0:00.000] ----------------------
+[0:00.000] 11212 files in pk3 files
+[0:00.000] Download item 1912121823 failed with EResult code 9
+[0:00.000] Workshop item 1950052814: was queued, requesting download.
+[0:00.000] Download item 1950052814 failed with EResult code 9
+[0:00.000] Download completed for all steamworks items
+[0:00.000] Steamworks downloads complete - FS restart is required
+[0:00.000] Not recording a demo.
+[0:00.000] ----- FS_Startup -----
+[0:00.000] Current search path:
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live/76561197995260178/baseq3
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\thinbeam-style6.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\thinbeam-style3.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\common\Quake Live/baseq3
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473386493\\thinbeam-style6.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473386493/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473361987\\thinbeam-style3.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3473361987/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1608253886\\overek.pk3 (0xf4e8f596 - 11 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1608253886/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\597920398\\ts_ca1.pk3 (0xa9f9cd08 - 22 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\597920398/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\547252823\\6plus.pk3 (0x3d3f1bca - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\547252823/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1854490400\\ahxkill_pql.pk3 (0xe81414d8 - 35 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1854490400/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2888269948\\nohalls.pk3 (0x5744c808 - 4 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2888269948/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3149546769\\nohalls2.pk3 (0xc955d907 - 7 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3149546769/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\549600167\\okremix.pk3 (0x70df4822 - 7 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\549600167/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\552722973\\sanctorium.pk3 (0x40d27928 - 113 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\552722973/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2390176322\\raztrainql_beta4.pk3 (0x6672a4e7 - 48 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2390176322/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2242127889\\strafeged2.pk3 (0x61bedd85 - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2242127889/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\575312620\\ospmaps.pk3 (0xe8fa40e8 - 761 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\575312620/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\908670670\\q3trnp1.pk3 (0xebd59dd0 - 13 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\908670670/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\655639987\\Oilrig.pk3 (0x3be39fd5 - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\655639987/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2839061218\\dm_abbey.pk3 (0x0acbd1bc - 18 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2839061218/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2812274310\\prison.pk3 (0xf4cdf936 - 6 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2812274310/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2938839334\\sanctum.pk3 (0xd711598d - 105 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2938839334/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1971145850\\firstrebirth.pk3 (0x88a21c6f - 112 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1971145850/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2154871066\\sinisterblue.pk3 (0xe4aac3b7 - 64 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2154871066/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\588956903\\bal3dm2.pk3 (0x94e93ed2 - 36 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\588956903/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2924088154\\vertical.pk3 (0xcbe1ebdd - 6 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2924088154/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2869523316\\silip.pk3 (0xf35110c7 - 66 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2869523316/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\607054267\\pqarena.pk3 (0xcf494861 - 26 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\607054267/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\637351306\\ct3dm4.pk3 (0x03601c17 - 124 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\637351306/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2167846290\\mario.pk3 (0x581080d4 - 23 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2167846290/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3250428693\\13soylent_a3.pk3 (0xa872221a - 9 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3250428693/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1928235486\\dm102.pk3 (0x3cdb324a - 135 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\1928235486/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3303557328\\overkill_fixed.pk3 (0x9f7d82e8 - 14 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3303557328/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2955830332\\fullbright.pk3 (0x22eb17f8 - 111 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\2955830332/
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3008846662\\zzz-beamcpma.pk3 (0x1ddc0a1e - 3 files)
+[0:00.000] Z:\home\thr0ne\.local\share\Steam\steamapps\workshop\content\282440\3008846662/
+[0:00.000]
+[0:00.000] ----------------------
+[0:00.000] 11212 files in pk3 files
+[0:00.000] RE_Shutdown( 0 )
+[0:00.000] Hunk_Clear: reset the hunk ok
+[0:00.000] ----- R_Init -----
+[0:00.000]
+GL_VENDOR: NVIDIA Corporation
+[0:00.000] GL_RENDERER: NVIDIA GeForce RTX 3070/PCIe/SSE2
+[0:00.000] GL_VERSION: 4.6.0 NVIDIA 575.64
+[0:00.000] GL_EXTENSIONS: GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer
+GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture
+GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader
+GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float
+GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect
+GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility
+GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object
+GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64
+GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query
+GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample
+GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object
+GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex
+GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects
+GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters
+GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store
+GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples
+GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include
+GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions
+GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object
+GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc
+GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3
+GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat
+GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg
+GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query
+GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_GL_MAX_TEXTURE_SIZE: 32768
+[0:00.000] GL_MAX_ACTIVE_TEXTURES_ARB: 4
+[0:00.000]
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(8-bits)
+[0:00.000] MODE: 23, 1916 x 1047 windowed hz:240
+[0:00.000] GAMMA: software w/ 0 overbright bits
+[0:00.000] CPU: Intel Pentium III
+[0:00.000] rendering primitives: single glDrawElements
+[0:00.000] texturemode: GL_NEAREST_MIPMAP_LINEAR
+[0:00.000] picmip: 6
+[0:00.000] texture bits: 32
+[0:00.000] multitexture: enabled
+[0:00.000] compiled vertex arrays: enabled
+[0:00.000] texenv add: enabled
+[0:00.000] compressed textures: disabled
+[0:00.000] Initializing Shaders
+[0:00.000] ----- finished R_Init -----
+[0:00.000] Sound memory manager started
+[0:00.000] Loading dll file ui
+[0:00.000] UI menu load time = 114 milli seconds
+[0:00.000] UI menu load time = 91 milli seconds
+[0:00.000] 34 bots parsed
+[0:00.000] Loading dll file cgame
+[0:00.000] trying models/mapobjects/slamp/slamp3_re.TGA...
+[0:00.000] stitched 88 LoD cracks
+[0:00.000] ...loaded 2423 faces, 526 meshes, 259 trisurfs, 0 flares
+[0:00.000] UI menu load time = 304 milli seconds
+[0:00.000] CL_InitCGame:  3.03 seconds
+[0:00.000] 28 msec to draw all images
+[0:00.000] Com_TouchMemory: 0 msec
+[0:00.000] fender bender renamed to ZOLTAN
+[0:00.000] UHdsfuyy7Ui was electrocuted by fraggan
+[0:00.000] ======= Message of the Day =======
+[0:00.000] NEW: CPMA Fullbright Model Textures | r_vertexLight ''0'' and cg_forceEnemySkin ''fb''
+[0:00.000] trying ui/assets/flags/zww.TGA...
+[0:00.000] trying ui/assets/flags/uk.TGA...
+[0:00.000] Greox was electrocuted by ZOLTAN
+[0:00.000] keklover ate fraggan's rocket
+[0:00.000] UHdsfuyy7Ui was railed by Nipos
+[0:00.000] keklover: f1
+[0:00.000] keklover: f3
+[0:00.000] Nipos voted yes.
+[0:00.000] keklover: go
+[0:00.000] Sokaries voted yes.
+[0:00.000] Vote failed.
+[0:00.000] Vote results: 3 - 0.
+[0:00.000] keklover called a vote.
+[0:00.000] cosmoelektrik was railed by CrS
+[0:00.000] Sokaries voted yes.
+[0:00.000] CrS voted yes.
+[0:00.000] Sokaries ate keklover's rocket
+[0:00.000] fraggan voted yes.
+[0:00.000] Sokaries: how does a vote fail at 3:0
+[0:00.000] UHdsfuyy7Ui was electrocuted by fraggan
+[0:00.000] CrS almost dodged Greox's rocket
+[0:00.000] Nipos voted yes.
+[0:00.000] Sokaries: pretimer
+[0:00.000] ZOLTAN was pummeled by keklover
+[0:00.000] Vote passed.
+[0:00.000] Vote results: 5 - 0.
+[0:00.000] Shuffling Teams.
+[0:00.000] Teams were NOT balanced due to the total number of players being an odd number.
+[0:00.000] keklover: hf
+[0:00.000] ZOLTAN was railed by fraggan
+[0:00.000] Greox was electrocuted by Sokaries
+[0:00.000] cnnct was pummeled by keklover
+[0:00.000] recording to demos/CA-ZOLTAN-6plus-2025_06_25-17_52_11.dm_91.
+[0:00.000] Leavers are being kept track of. Repeat offenders will be banned.
+[0:00.000] Nipos switched teams.
+[0:00.000] Uneven teams action: Nipos was moved to spec to even teams!
+[0:00.000] keklover switched teams.
+[0:00.000] UHdsfuyy7Ui switched teams.
+[0:00.000] 1395 vs 1396 - DIFFERENCE: 1
+[0:04.402] ZOLTAN switched teams.
+[0:09.576] keklover ate UHdsfuyy7Ui's grenade
+[0:18.052] cosmoelektrik was electrocuted by fraggan
+[0:20.650] Nipos was electrocuted by Sokaries
+[0:39.652] cnnct almost dodged Sokaries's rocket
+[0:40.227] UHdsfuyy7Ui almost dodged Greox's rocket
+[0:47.103] Sokaries was railed by Greox
+[0:51.976] INVERTED SPEAR OF HEAVEN connected
+[0:52.928] RED TEAM WINS the round! (3 players remaining)
+[0:52.928] Greox was electrocuted by fraggan
+[0:56.500] m0rtician switched teams.
+[0:56.500] Nipos switched teams.
+[0:56.526] The rating difference is 69, so m0rtician and Nipos have been switched.
+[0:59.551] The server has moved you to the RED team
+[1:00.002] m0rtician: omg
+[1:01.375] ZOLTAN: \( •ᴗ•)/
+[1:02.651] m0rtician: !teams
+[1:02.702] 1367 vs 1341 - DIFFERENCE: 26
+[1:02.702] SUGGESTION: switch CrS with cosmoelektrik. Mentioned players can type !a to agree.
+[1:02.777]  (fraggan) (Rail Stairwell): @ HELP/ENEMY!
+[1:27.075] INVERTED SPEAR OF HEAVEN was railed by Nipos
+[1:31.226] cosmoelektrik was electrocuted by fraggan
+[1:35.625] cosmoelektrik: !a
+[1:38.550] m0rtician was railed by ZOLTAN
+[1:40.477] cnnct almost dodged ZOLTAN's rocket
+[1:47.552] keklover was electrocuted by Sokaries
+[1:48.227] m0rtician switched teams.
+[1:50.602] CrS ate Greox's rocket
+[1:58.026] CrS disconnected
+[2:00.578] RED TEAM WINS the round! (5 players remaining)
+[2:00.578] Greox was railed by Nipos
+[2:05.800] [zɑ:γs] connected
+[2:10.451] [zɑ:γs] renamed to [zɑ:γs]
+[2:16.302] Nipos was electrocuted by cnnct
+[2:17.550] [zɑ:γs]: !tEeNS
+[2:17.602] 1320 vs 1449 - DIFFERENCE: 129
+[2:17.602] SUGGESTION: switch UHdsfuyy7Ui with Greox. Mentioned players can type !a to agree.
+[2:31.876] ZOLTAN almost dodged cosmoelektrik's rocket
+[2:32.425] ZOLTAN: \( •ᴗ•)/
+[2:37.126] Sokaries: fraggan
+[2:37.751] Sokaries: look
+[2:38.401] Sokaries: behind
+[2:38.600] UHdsfuyy7Ui was railed by Greox
+[2:38.802] Sokaries: ui
+[2:39.602] Sokaries: u fuck
+[2:47.076] cnnct was electrocuted by fraggan
+[3:05.026] INVERTED SPEAR OF HEAVEN was railed by Sokaries
+[3:05.102] keklover: q:-)
+[3:12.776] INVERTED SPEAR OF HEAVEN disconnected
+[3:20.451] cosmoelektrik was electrocuted by fraggan
+[3:33.800] keklover was electrocuted by Sokaries
+[3:50.477] RED TEAM WINS the round! (2 players remaining)
+[3:50.477] Greox ate Sokaries's rocket
+[3:54.026] Uneven teams detected! Server will auto spec ZOLTAN.
+[4:01.828] The server has moved you to the SPECTATOR team
+[4:01.828] ZOLTAN switched teams.
+[4:01.852] Uneven teams action: ZOLTAN was moved to spec to even teams!
+[4:07.376] fraggan ate cosmoelektrik's rocket
+[4:18.852] UHdsfuyy7Ui was electrocuted by Greox
+[4:20.703] Nipos almost dodged [zɑ:γs]'s rocket
+[4:44.278] m0rtician almost dodged cnnct's rocket
+[4:48.377] m0rtician: !teams
+[4:48.428] 1373 vs 1559 - DIFFERENCE: 186
+[4:48.428] SUGGESTION: switch Nipos with Greox. Mentioned players can type !a to agree.
+[4:51.377] Nipos: !a
+[4:58.075] Like this server? Join the discord: tiny.cc/pqlvamp :))
+[4:58.578] UHdsfuyy7Ui renamed to mdr
+[5:09.802] keklover: !teams
+[5:09.852] 1373 vs 1559 - DIFFERENCE: 186
+[5:09.852] SUGGESTION: switch Nipos with Greox. Mentioned players can type !a to agree.
+[5:11.424] keklover was railed by Sokaries
+[5:13.052] Sokaries: xD
+[5:20.902] keklover called a vote.
+[5:22.800] fraggan voted no.
+[5:23.302] m0rtician voted no.
+[5:23.526] cnnct voted yes.
+[5:24.425] BLUE TEAM WINS the round! (4 players remaining)
+[5:24.425] Sokaries was railed by Greox
+[5:27.475] keklover: this is fucked up already
+[5:28.001] Nipos switched teams.
+[5:28.001] Greox switched teams.
+[5:28.028] The rating difference is 186, so Nipos and Greox have been switched.
+[5:31.477] keklover: sure
+[5:32.078] teo四 connected
+[5:32.549] Sokaries voted no.
+[5:37.250] teo四 renamed to glorbo
+[5:41.902] keklover was railed by fraggan
+[5:42.377] ZOLTAN: !q
+[5:42.401] Queue >> glorbo(1)
+[5:44.049] The server has moved you to the BLUE team
+[5:44.403] trying ui/assets/flags/fasfasf.TGA...
+[5:45.399]  (keklover) (Rocket): fuck you
+[5:46.851] Nipos almost dodged mdr's rocket
+[5:50.328]  (ZOLTAN) (Rocket): thx
+[5:50.877] Vote failed.
+[5:50.928] Vote results: 2 - 3.
+[5:54.851] ZOLTAN: !teens
+[5:54.901] 1523 vs 1396 - DIFFERENCE: 127
+[5:54.901] SUGGESTION: switch fraggan with ZOLTAN. Mentioned players can type !a to agree.
+[5:55.799] Nipos: wtf is going on here?
+[5:56.826] [zɑ:γs] was electrocuted by Greox
+[5:59.251] keklover called a vote.
+[6:01.100] Nipos voted yes.
+[6:02.626] m0rtician voted no.
+[6:07.851] Vote cast.
+[6:07.877] ZOLTAN voted no.
+[6:10.501] keklover: can we do a decent game without a teamchange every fucking round
+[6:11.127] cosmoelektrik was railed by mdr
+[6:22.399] RED TEAM WINS the round! (5 players remaining)
+[6:22.399] cnnct almost dodged fraggan's rocket
+[6:25.977] The server has moved you to the RED team
+[6:25.977] fraggan switched teams.
+[6:25.977] ZOLTAN switched teams.
+[6:26.002] The rating difference is 127, so fraggan and ZOLTAN have been switched.
+[6:26.528] keklover: !selo
+[6:26.601] Sokaries: 1835, glorbo: 1803, Greox: 1700, mdr: 1279, m0rtician: 1057, ZOLTAN:
+1056
+[6:26.601] [zɑ:γs]: 1704, keklover: 1572, cnnct: 1555, fraggan: 1466, cosmoelektrik: 1262,
+Nipos: 1230
+[6:26.601] hihaho55771: 1433
+[6:28.277] keklover: sure
+[6:29.227] Vote failed.
+[6:29.277] Vote results: 2 - 2.
+[6:32.325] m0rtician called a vote.
+[6:35.477] keklover voted no.
+[6:36.774] ZOLTAN was electrocuted by [zɑ:γs]
+[6:38.550] ZOLTAN: wow
+[6:41.700] Vote cast.
+[6:41.727] ZOLTAN voted no.
+[6:43.528] cosmoelektrik was electrocuted by Greox
+[6:47.851] Sorry, but no players matched your tokens.
+[6:48.928] Nipos was electrocuted by Sokaries
+[6:52.227] A total of 1 players matched:
+[6:52.227]   9: m0rtician
+[6:58.075] Sokaries was electrocuted by keklover
+[7:02.302] Vote failed.
+[7:02.351] Vote results: 1 - 2.
+[7:02.618] ]\cv clientkick 9
+[7:02.700] ZOLTAN called a vote.
+[7:03.653] mdr was railed by cnnct
+[7:04.451] m0rtician was railed by [zɑ:γs]
+[7:12.252] fraggan was railed by Greox
+[7:17.177] fraggan voted no.
+[7:32.678] Vote failed.
+[7:32.726] Vote results: 1 - 1.
+[7:33.651] m0rtician: !teams
+[7:33.700] 1455 vs 1465 - DIFFERENCE: 10
+[7:33.700] Teams look good!
+[7:37.300] [zɑ:γs] was railed by Greox
+[7:37.727] cnnct ate glorbo's rocket
+[7:46.924] RED TEAM WINS the round! (2 players remaining)
+[7:46.924] keklover ate Greox's rocket
+[7:47.502] keklover: o<i<
+[8:07.526] ZOLTAN ate cnnct's rocket
+[8:10.076] glorbo was electrocuted by cnnct
+[8:10.402] fraggan ate m0rtician's rocket
+[8:13.477] mdr ate cnnct's rocket
+ID |     SteamID64     |   IP Address    | Name
+ 2 | 76561197995260178 | 95.179.144.177  | ZOLTAN
+ 3 | 76561197960345488 | 80.61.13.142    | [zɑ:γs]
+ 4 | 76561199706797621 | 80.208.65.57    | cnnct
+ 5 | 76561197981799583 | 87.79.67.137    | keklover
+ 6 | 76561197971314365 | 213.64.2.215    | Greox
+ 7 | 76561198012322433 | 176.150.179.139 | mdr
+ 8 | 76561198071682127 | 162.19.244.185  | Sokaries
+ 9 | 76561198257370179 | 188.167.253.230 | m0rtician
+10 | 76561198852868074 | 78.3.19.202     | cosmoelektrik
+11 | 76561198026542550 | 185.209.105.81  | hihaho55771
+12 | 76561198008633561 | 81.225.68.230   | fraggan
+13 | 76561197991286646 | 31.19.209.216   | Nipos
+14 | 76561198118826625 | 82.84.9.36      | glorbo
+Dumped console text to condump.txt.
+
