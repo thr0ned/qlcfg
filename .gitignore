@@ -1,0 +1,7 @@
+demos/
+*.txt
+*.dll
+error.log
+profile.pid
+qzconfig.cfg
+repconfig.cfg
